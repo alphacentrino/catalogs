@@ -7,6 +7,7 @@ metadata:
     - go
   annotations:
     backstage.io/kubernetes-id: dice-roller
+    backstage.io/techdocs-ref: dice-roller
     # 'backstage.io/kubernetes-namespace': enbl
     # backstage.io/kubernetes-label-selector: 'backstage.io/kubernetes-id=dice-roller'
 spec:
